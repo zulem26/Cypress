@@ -2,6 +2,7 @@
 
 var drinks = ['coke', 'water', 'fanta', 'ayran']
 var kebaps = ['adana', 'urfa', 'ciger', 'patlican']
+var giyecek = ['gomlek', 'pantolon', 'kazak']
 
 var shoppingList = drinks.concat(kebaps)
 console.log(shoppingList)
